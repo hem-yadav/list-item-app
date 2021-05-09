@@ -1,0 +1,21 @@
+.black-bg {
+  background-color: black;
+}
+.black-color {
+  color: black;
+}
+
+.white-color {
+  color: white;
+}
+
+.green-color {
+  color: rgb(100, 161, 125);
+}
+
+.blue-color {
+  color: rgb(106, 196, 228);
+}
+.red-color {
+  color: red;
+}

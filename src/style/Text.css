@@ -1,0 +1,52 @@
+.is-underlined {
+  text-decoration: underline;
+}
+
+.is-line-through {
+  text-decoration: line-through;
+}
+
+.text-weight-bold {
+  font-weight: bold;
+}
+
+.is-text-weight-normal {
+  font-weight: normal;
+}
+
+.is-text-weight-medium {
+  font-weight: 500;
+}
+
+.is-italic {
+  font-style: italic;
+}
+
+.text {
+  letter-spacing: 1;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.capitalized {
+  text-transform: capitalize;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.subscript {
+  font-size: 13px !important;
+}
+
+@media only screen and (max-width: 550px) {
+  .text {
+    word-break: break-all;
+  }
+}

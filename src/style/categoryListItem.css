@@ -1,0 +1,15 @@
+.list-item-content {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+
+@media only screen and (max-width: 550px) {
+  .list-item-content {
+    flex-direction: column;
+  }
+  .price-info {
+    margin-top: 15px;
+  }
+}

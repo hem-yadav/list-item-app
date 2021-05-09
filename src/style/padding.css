@@ -1,0 +1,46 @@
+.padding-horizontal-xs {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.padding-horizontal-s {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.padding-horizontal-m {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.padding-vertical-s {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.padding-vertical-m {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.padding-right-m {
+  padding-right: 10px;
+}
+.padding-top-m {
+  padding-top: 10px;
+}
+.padding-top-l {
+  padding-top: 15px;
+}
+
+.padding-bottom-l {
+  padding-bottom: 15px;
+}
+
+.padding-s {
+  padding: 5px;
+}
+.padding-m {
+  padding: 10px;
+}
+.padding-xl {
+  padding: 20px;
+}

@@ -1,0 +1,29 @@
+/* .text-input-wrapper {
+  border-radius: 25px;
+  background-color: red;
+} */
+
+.text-input-wrapper label input {
+  flex: 1;
+  font-size: 17px;
+  border: 0;
+  outline: 0;
+}
+
+.text-input-wrapper label,
+.text-input-wrapper input {
+  background-color: inherit;
+}
+
+.text-input-wrapper.white-green-theme input {
+  color: black;
+}
+
+.text-input-wrapper.white-green-theme {
+  background-color: rgb(255, 255, 255);
+}
+
+.text-input-wrapper.white-green-theme label {
+  border: solid 1px rgb(153, 211, 177);
+  border-radius: 7px;
+}
